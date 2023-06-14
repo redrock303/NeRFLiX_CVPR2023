@@ -56,4 +56,19 @@ LLFF /Tanks
 [<img src="assets/tensorf_4k_l1.png" height="446px"/>](https://imgsli.com/MTg1ODYz)
 
  We also upload a video demo at [YouTube](https://youtu.be/YiXvgQXiWII).
+
+
+ 
+ 
+ ### Citation
+If our work is useful for your research, please consider citing:
+
+    @InProceedings{Zhou_2023_CVPR,
+    author    = {Zhou, Kun and Li, Wenbo and Wang, Yi and Hu, Tao and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
+    title     = {NeRFLix: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-Viewpoint MiXer},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {12363-12374}
+}
 ---
