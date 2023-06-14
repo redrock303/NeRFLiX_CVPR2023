@@ -1,0 +1,9 @@
+# ninja log v5
+0	3335	1622077849310000000	/workspace/DCNv2_latest/build/temp.linux-x86_64-3.8/workspace/DCNv2_latest/src/cpu/dcn_v2_im2col_cpu.o	1559c3a3cd4968d8
+0	3900	1622077849870000000	/workspace/DCNv2_latest/build/temp.linux-x86_64-3.8/workspace/DCNv2_latest/src/cpu/dcn_v2_cpu.o	37ba8bd245ca3f52
+0	3937	1622077849910000000	/workspace/DCNv2_latest/build/temp.linux-x86_64-3.8/workspace/DCNv2_latest/src/cpu/dcn_v2_psroi_pooling_cpu.o	331b18c6b3e3a3eb
+0	16002	1622077861970000000	/workspace/DCNv2_latest/build/temp.linux-x86_64-3.8/workspace/DCNv2_latest/src/vision.o	bc6271a8ae08971f
+1	3003	1622077865360000000	/workspace/DCNv2_latest/build/temp.linux-x86_64-3.8/workspace/DCNv2_latest/src/cpu/dcn_v2_im2col_cpu.o	24d4035a5e4d4ab7
+1	3586	1622077865940000000	/workspace/DCNv2_latest/build/temp.linux-x86_64-3.8/workspace/DCNv2_latest/src/cpu/dcn_v2_cpu.o	393d11f8d70a34c7
+1	3722	1622077866070000000	/workspace/DCNv2_latest/build/temp.linux-x86_64-3.8/workspace/DCNv2_latest/src/cpu/dcn_v2_psroi_pooling_cpu.o	376eebd7c17f5e09
+1	15668	1622077878020000000	/workspace/DCNv2_latest/build/temp.linux-x86_64-3.8/workspace/DCNv2_latest/src/vision.o	21c0677dd3c391f2
