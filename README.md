@@ -71,4 +71,12 @@ If our work is useful for your research, please consider citing:
     year      = {2023},
     pages     = {12363-12374}
 }
+
+    @inproceedings{zhou2023from,
+        author = {Kun Zhou, Wenbo Li, Nianjuan Jiang, Xiaoguang Han, Jiangbo Lu},
+        title = {From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm},
+        booktitle = {arXiv preprint arXiv:2306.06388},
+        year = {2023}
+    }
+
 ---
