@@ -34,8 +34,8 @@ LLFF /Tanks
    </br>
   &ensp; step 4 : run the test_novelviews.py , then the enhanced views will be placed in the result_path
    </br>
-  Also you can train an in-the-wild scene using SOTA NeRF model and enjoy the photo-relastic results by NeRFLiX.
-'''
+  Also you can train an in-the-wild scene using SOTA NeRF approaches and enjoy the photo-relastic results by NeRFLiX.
+
 
  # Training 
  I put the training code in the train folder.
