@@ -11,7 +11,7 @@ This is the official implementation of NeRFLiX. I will release the training and 
 
 ### Some enhanced results
 
-[<img src="assets/regnerf.png" height="446px"/>](https://imgsli.com/MTg1ODI1) [<img src="assets/nerf-mm.png" height="446px"/>](https://imgsli.com/MTg1ODQx)[<img src="assets/plenoxels.png" height="446px"/>](https://imgsli.com/MTg1ODQy) [<img src="assets/tensorf_wild.png" height="446px"/>](https://imgsli.com/MTg1ODQy)
+[<img src="assets/regnerf.png" height="446px"/>](https://imgsli.com/MTg1ODI1) [<img src="assets/nerf-mm.png" height="446px"/>](https://imgsli.com/MTg1ODQx)[<img src="assets/plenoxels.png" height="446px"/>](https://imgsli.com/MTg1ODQy) [<img src="assets/tensorf_wild.png" height="446px"/>](https://imgsli.com/MTg1ODQ1)
 
 [<img src="assets/tensorf_tanks.png" height="540px" width="960px"/>](https://imgsli.com/MTg1ODQz)
 '''
