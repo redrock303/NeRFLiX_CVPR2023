@@ -51,9 +51,11 @@ LLFF /Tanks
  Our recent work [NeRFLiX++](https://arxiv.org/abs/2306.06388), an improved version that is stronger, faster and for 4K NeRFs. We will release the source code later.
 
 ## Some high-resolution enhanced results of NeRFLiX++
+[<img src="assets/tensorf_wild2.png" height="446px"/>](https://imgsli.com/MTg2MTA3)
 [<img src="assets/nerflix_plus_tanks.png" height="446px"/>](https://imgsli.com/MTg1ODYw)
 [<img src="assets/plenoxels_4k-gan.png" height="446px"/>](https://imgsli.com/MTg1ODYy)
 [<img src="assets/tensorf_4k_l1.png" height="446px"/>](https://imgsli.com/MTg1ODYz)
+
 
  We also upload a video demo at [YouTube](https://youtu.be/YiXvgQXiWII).
 
@@ -78,5 +80,4 @@ If our work is useful for your research, please consider citing:
         booktitle = {arXiv preprint arXiv:2306.06388},
         year = {2023}
     }
-
 ---
