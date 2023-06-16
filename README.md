@@ -67,19 +67,19 @@ LLFF /Tanks
 If our work is useful for your research, please consider citing:
 
     @inproceedings{zhou2023nerflix,
-  title={NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer},
-  author={Zhou, Kun and Li, Wenbo and Wang, Yi and Hu, Tao and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={12363--12374},
-  year={2023}
-}
+    title={NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer},
+    author={Zhou, Kun and Li, Wenbo and Wang, Yi and Hu, Tao and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={12363--12374},
+    year={2023}
+    }
 
 
     @article{zhou2023nerflix,
-  title={From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm},
-  author={Zhou, Kun and Li, Wenbo and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
-  journal={arXiv preprint arXiv:2306.06388},
-  year={2023}
-}
+    title={From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm},
+    author={Zhou, Kun and Li, Wenbo and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
+    journal={arXiv preprint arXiv:2306.06388},
+    year={2023}
+    }
 
 ---
