@@ -66,19 +66,20 @@ LLFF /Tanks
  ### Citation
 If our work is useful for your research, please consider citing:
 
-    @InProceedings{Zhou_2023_CVPR,
-    author    = {Zhou, Kun and Li, Wenbo and Wang, Yi and Hu, Tao and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
-    title     = {NeRFLix: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-Viewpoint MiXer},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2023},
-    pages     = {12363-12374}
+    @inproceedings{zhou2023nerflix,
+  title={NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer},
+  author={Zhou, Kun and Li, Wenbo and Wang, Yi and Hu, Tao and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12363--12374},
+  year={2023}
 }
 
-    @inproceedings{zhou2023from,
-        author = {Kun Zhou, Wenbo Li, Nianjuan Jiang, Xiaoguang Han, Jiangbo Lu},
-        title = {From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm},
-        booktitle = {arXiv preprint arXiv:2306.06388},
-        year = {2023}
-    }
+
+    @article{zhou2023nerflix,
+  title={From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm},
+  author={Zhou, Kun and Li, Wenbo and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
+  journal={arXiv preprint arXiv:2306.06388},
+  year={2023}
+}
+
 ---
