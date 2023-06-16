@@ -6,8 +6,11 @@
 #### [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_NeRFLix_High-Quality_Neural_View_Synthesis_by_Learning_a_Degradation-Driven_Inter-Viewpoint_CVPR_2023_paper.pdf) [\[Project\]](https://t.co/uNiTd9ujCv)
 ---
 
-This is the official implementation of NeRFLiX. I will release the training and inference code at this project.
+This is the official implementation of NeRFLiX. 
 
+# News
+ Our recent work [NeRFLiX++](https://arxiv.org/abs/2306.06388), an improved version that is stronger, faster and for 4K NeRFs. We will release the source code later.
+  </br>The [project website](https://redrock303.github.io/nerflix_plus) is now available.
 
 ### Some enhanced results
 
@@ -47,9 +50,7 @@ LLFF /Tanks
  python3 -m torch.distributed.launch --nproc_per_node=gpu_number --master_port=port_code $(dirname $0)/train.py
  ```
 
-# News
- Our recent work [NeRFLiX++](https://arxiv.org/abs/2306.06388), an improved version that is stronger, faster and for 4K NeRFs. We will release the source code later.
-  </br>The [project website](https://redrock303.github.io/nerflix_plus) is now available.
+
 ## Some high-resolution enhanced results of NeRFLiX++
 [<img src="assets/tensorf_wild2.png" height="446px"/>](https://imgsli.com/MTg2MTE1)
 [<img src="assets/tensorf_wild1.png" height="446px"/>](https://imgsli.com/MTg2Mjg1)
