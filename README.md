@@ -31,11 +31,11 @@ LLFF /Tanks
    </br>
   &ensp; step 2 : utilize this NeRF model to render novel views(images) given a set of novel camera poses
    </br>
-  &ensp; step 3 : run 'pose_matching.py' by given four necessary inputs:
+  &ensp; step 3 : run '[pose_matching.py](./inference/pose_matching.py)' by given four necessary inputs:
         (1) training images (2) training camera poses (3) novel images (4) novel camera poses
         after that , you will get the view selection results saved in a josn file 
    </br>
-  &ensp; step 4 : run the test_novelviews.py , then the enhanced views will be placed in the result_path
+  &ensp; step 4 : run the '[test_novelviews.py](./inference/test_novelviews.py)' , then the enhanced views will be placed in the result_path
    </br>
   Also you can train an in-the-wild scene using SOTA NeRF approaches and enjoy the photo-relastic results by NeRFLiX.
 
@@ -43,7 +43,7 @@ LLFF /Tanks
  # Training 
  I put the training code in the train folder.
  </br> 
- &ensp;you should download the vimeo_septuplet and eight LLFF-T(drop every eighth frame)
+ &ensp;you should download the vimeo_septuplet and eight LLFF-T scenes(drop every eighth frame)
  </br>
  &ensp;then simple run the following commend using single or multiple GPUs
  ```sh
@@ -53,7 +53,6 @@ LLFF /Tanks
 
 ## Some high-resolution enhanced results of NeRFLiX++
 [<img src="assets/tensorf_wild2.png" height="446px"/>](https://imgsli.com/MTg2MTE1)
-[<img src="assets/tensorf_wild1.png" height="446px"/>](https://imgsli.com/MTg2Mjg1)
 [<img src="assets/nerflix_plus_tanks.png" height="446px"/>](https://imgsli.com/MTg1ODYw)
 [<img src="assets/plenoxels_4k-gan.png" height="446px"/>](https://imgsli.com/MTg1ODYy)
 [<img src="assets/tensorf_4k_l1.png" height="446px"/>](https://imgsli.com/MTg1ODYz)
