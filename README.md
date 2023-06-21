@@ -53,15 +53,13 @@ LLFF /Tanks
 
 ## Some high-resolution enhanced results of NeRFLiX++
 [<img src="assets/tensorf_wild2.png" height="446px"/>](https://imgsli.com/MTg2MTE1)
-[<img src="assets/nerflix_plus_tanks.png" height="446px"/>](https://imgsli.com/MTg1ODYw)
 [<img src="assets/plenoxels_4k-gan.png" height="446px"/>](https://imgsli.com/MTg1ODYy)
 [<img src="assets/tensorf_4k_l1.png" height="446px"/>](https://imgsli.com/MTg1ODYz)
+[<img src="assets/nerflix_plus_tanks.png" height="446px"/>](https://imgsli.com/MTg1ODYw)
 
 
  We also upload a video demo at [YouTube](https://youtu.be/YiXvgQXiWII).
 
-
- 
  
  ### Citation
 If our work is useful for your research, please consider citing:
