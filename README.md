@@ -60,6 +60,7 @@ LLFF /Tanks
 
  We also upload a video demo at [YouTube](https://youtu.be/YiXvgQXiWII).
 
+ Please note that the code in this repository is intended solely for research purposes and is not licensed for commercial use.
  
  ### Citation
 If our work is useful for your research, please consider citing:
